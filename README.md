@@ -12,7 +12,7 @@
 
 - 🎓 B-Tech in **CSE (Networks)** @ Kakatiya Institute of Technology and Science, Warangal
 - 🔐 Passionate about **networking & cybersecurity** — scanning, vulnerability detection, and system security
-- 🛡️ CCNA certified across **Networking, Switching/Routing/Wireless, and Enterprise Security & Automation**
+- 🛡️ CCNA certificates across **Networking, Switching/Routing/Wireless, and Enterprise Security & Automation**
 - 🤖 Also build with **AI/ML** — chatbots using NLP, and RL-based optimization systems
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/narendar-bommera-4011682b1/)** — let's connect!
 
