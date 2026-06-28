@@ -41,10 +41,6 @@
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
